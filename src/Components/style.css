@@ -1,0 +1,9 @@
+.list-group a:hover {
+	background-color: #9c27b0;
+	color: white;
+	cursor: pointer;
+}
+.list-group-item.isActive {
+  background-color: #9c27b0;
+  color: white;
+}
